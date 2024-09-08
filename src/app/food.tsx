@@ -64,7 +64,7 @@ export default function FoodBill({ table }: { table: TableType }) {
               {unsettled.length}
             </button>
           )} */}
-
+{/* 
           <div className="flex items-center justify-center relative m-3 h-[268px] w-[350px]">
             <div className="rounded-3xl h-[168px] w-[250px] bg-[#ACBDBA]">
               <div className="flex flex-col pt-5">
@@ -88,7 +88,7 @@ export default function FoodBill({ table }: { table: TableType }) {
                 </button>
               </div>
             </div>
-          </div>
+          </div> */}
         </>
       )}
     </div>

@@ -12,7 +12,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@clerk/nextjs": "^5.0.2",
+    "@clerk/nextjs": "^5.4.1",
     "@hookform/resolvers": "^3.3.4",
     "@libsql/client": "^0.6.0",
     "@nivo/pie": "^0.87.0",
