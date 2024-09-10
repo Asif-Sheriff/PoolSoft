@@ -1,5 +1,4 @@
 type IconProps = React.HTMLAttributes<SVGElement>;
-
 // lucide icons
 
 export const Icons = {
