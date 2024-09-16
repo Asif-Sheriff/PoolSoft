@@ -43,13 +43,6 @@ export default function Pos() {
               <Table tableData={data} key={index} table={table} />
             ))}
 
-        {/* <div className="m-3 h-[268px] w-[350px] rounded-md bg-slate-300 flex items-center">
-          <Link
-            href={"/admin/tables/add"}
-            className="mx-auto rounded-md bg-slate-400 p-3 hover:bg-slate-500">
-            Add Table
-          </Link>
-        </div> */}
 
         <FoodBill table={{ id: 0, name: "Canteen", rate:0, theme:'canteen', checked_in_at: null, unsettled:[]}} />
 
